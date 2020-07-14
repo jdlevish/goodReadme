@@ -114,7 +114,7 @@ ${answers.contributions}
 contact the creator at ${answers.email} or ${answers.github}
 
 ## licensing
-this project is covered under the ${answers.license} for more info view the 
+this project is covered under the ${answers.license} for more info view the  license.txt
     `
         ;
 }
