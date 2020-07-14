@@ -113,7 +113,7 @@ ${answers.contributions}
 ## Additional questions
 contact the creator at ${answers.email} or ${answers.github}
 
-## licencing
+## licensing
 this project is covered under the ${answers.license} for more info view the 
     `
         ;

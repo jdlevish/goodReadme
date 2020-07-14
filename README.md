@@ -42,6 +42,6 @@ to submitt to this project please submit a pull request, for larger issues pleas
 ## Additional questions
 contact the creator at jdlevish@gmail.com or jdlevish
 
-## licencing
+## licensing
 this project is covered under the MIT License for more info view the 
     
