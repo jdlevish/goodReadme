@@ -2,7 +2,7 @@
 ![](/test.png)
 # goodReadme
 
-## ![](https://img.shields.io/github/license/jdlevish/goodReadme)
+## ![](https://img.shields.io/github/license/jdlevish/goodReadme/)
 
 ## Table Of Contents
 

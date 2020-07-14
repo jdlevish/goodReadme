@@ -73,7 +73,7 @@ function generateMD(answers) {
 ![](${answers.screenShot})
 # ${answers.title}
 
-## ![](https://img.shields.io/github/license/${answers.github}/${answers.title})
+## ![](https://img.shields.io/github/license/${answers.github}/${answers.title}/)
 
 ## Table Of Contents
 
