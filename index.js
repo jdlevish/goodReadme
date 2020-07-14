@@ -54,7 +54,7 @@ function promptUser() {
         {
             type: "list",
             name: "license",
-            message: "select the licence type for your project.",
+            message: "select the license type for your project.",
             choices: [, "MIT License", "BSD 2-Clause License", "GNU GENERAL PUBLIC LICENSE"]
         },
         {
@@ -114,7 +114,7 @@ ${answers.contributions}
 contact the creator at ${answers.email} or ${answers.github}
 
 ## licencing
-this project is covered under the ${answers.licence} for more info view the 
+this project is covered under the ${answers.license} for more info view the 
     `
         ;
 }
