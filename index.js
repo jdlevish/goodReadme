@@ -111,10 +111,10 @@ ${answers.tests}
 ${answers.contributions}
 
 ## Additional questions
-contact the creator at ${answers.email} or ${answers.github}
+contact the creator at ${answers.email} or ${answers.github} on github.com
 
 ## licensing
-this project is covered under the ${answers.license} for more info view the  license.txt
+this project is covered under the ${answers.license} for more info view the  [license.txt](/license.txt)
     `
         ;
 }
