@@ -1,8 +1,8 @@
 
-![](/test.png)
-# goodReadme
+![](./screenshot.png)
+# notePadApp
 
-## ![](https://img.shields.io/github/license/jdlevish/goodReadme)
+## ![](https://img.shields.io/github/license/jdlevish/notePadApp/)
 
 ## Table Of Contents
 
@@ -18,30 +18,30 @@
 
 *[Contributing](#Contributing)
 ## Description
-This project helps the user create I High Quality README.md file for their projects
+This is a note taking application that allows a user to input a note title and note text , and then save those notes to view later. The user can view and delete the notes in addition to adding new notes.
     
 ## Installation
     
-This project is run from the command prompt, it requires that the user install NodeJS first then through the NPM package manager the user must npm install the inquirer package.
+this project is a node application, there for if you are looking to develop using this project you must have node.js installed as well as all dependencies which in this case is only express.js
     
 ## Requirements
     
-the application requires NodeJS, and the Inquirer Package. 
+the application it's self runs in the browser and for basic use all that is required for use is a web browser that can run basic web applications.
 ## Usage Instructions
 
-To Use this application the user must navigate to the directory that the application is installed to , using the command prompt. the then must enter node index.js to run the application. They will then be prompted to enter information about their application. once all questions have been answered the application will generate the README.md file.
+To use this project clone the repository to your local system , navicate to the application directory and run node app.js. this will initialize the node server. Once the node server is running open your browser and navigate to  localhost:3001 then you can start adding notes and using the application.
     
 ## Running the tests
     
-their are no tests associated with this project
+there are no tests associated with this project at the moment
     
 ## Contributing
     
-to submit to this project please submit a pull request, for larger issues please contact the creator
+if you would like o contribute to this project you are encouraged to submit a pull request or for larger changes contact the project creator
 
 ## Additional questions
 contact the creator at jdlevish@gmail.com or jdlevish on github.com
 
 ## licensing
-this project is covered under the MIT License for more info view the [license.txt](license.txt)
+this project is covered under the MIT License for more info view the  [license.txt](/license.txt)
     

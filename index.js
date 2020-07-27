@@ -122,6 +122,7 @@ this project is covered under the ${answers.license} for more info view the  [li
 
 promptUser()
     .then(function (answers) {
+
         const MD = generateMD(answers)
 
         return writeFileAsync("README.md", MD);
